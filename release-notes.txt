@@ -1,0 +1,2 @@
+-This is a sample release note
+-Building a calculator is much much more complex than I thought
