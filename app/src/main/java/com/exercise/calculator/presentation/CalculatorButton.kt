@@ -16,7 +16,7 @@ import androidx.compose.ui.unit.sp
 @Composable
 fun CalculatorButton(
     action: CalculatorUiAction,
-    modifier: Modifier = Modifier,asd
+    modifier: Modifier = Modifier,
     onClick: () -> Unit,
 ) {
     Box(
